@@ -1,0 +1,11 @@
+{
+  "name": "expense-tracker-backend",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "server": "json-server --watch db.json --host 0.0.0.0 --port 5000"
+  },
+  "dependencies": {
+    "json-server": "^0.16.3"
+  }
+}

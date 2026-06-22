@@ -1,0 +1,53 @@
+{
+  "preferences": {
+    "theme": "dark"
+  },
+  "expenses": [
+    {
+      "id": 1,
+      "month": "2026-04"
+    },
+    {
+      "id": 2,
+      "month": "2026-07"
+    },
+    {
+      "month": "2026-08",
+      "id": 3
+    },
+    {
+      "month": "2026-06",
+      "id": 4
+    }
+  ],
+  "receipts": [
+    {
+      "description": "water billl",
+      "amount": "2000",
+      "timestamp": "2026-06-21T23:16:40.397Z",
+      "month": "2026-04",
+      "id": 1
+    },
+    {
+      "description": "electicity",
+      "amount": "2000",
+      "timestamp": "2026-06-21T23:16:56.931Z",
+      "month": "2026-07",
+      "id": 2
+    },
+    {
+      "description": "ethernet ",
+      "amount": "450",
+      "timestamp": "2026-06-21T23:17:10.334Z",
+      "month": "2026-08",
+      "id": 3
+    },
+    {
+      "description": "hosppital bill ",
+      "amount": "5000",
+      "timestamp": "2026-06-21T23:17:25.900Z",
+      "month": "2026-06",
+      "id": 4
+    }
+  ]
+}

@@ -20,7 +20,8 @@ const submit = async(e)=>{
 const newreceipt ={
   description:desc,
   amount:amount,
-  timestamp:new Date().toISOString()
+  timestamp:new Date().toISOString(),
+  month:month
 }
 
 try {
